@@ -1,0 +1,56 @@
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\bin\Debug\Telemetry.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\bin\Debug\Telemetry.exe
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\bin\Debug\Telemetry.pdb
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\obj\Debug\Telemetry.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\obj\Debug\Telemetry.Form1.resources
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\obj\Debug\Telemetry.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\obj\Debug\Telemetry.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\obj\Debug\Telemetry.exe
+c:\users\anton\documents\visual studio 2013\Projects\Telemetry\Telemetry\obj\Debug\Telemetry.pdb
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe.config
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.exe
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.pdb
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.pdb
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Form1.resources
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Properties.Resources.resources
+C:\Users\Anton\Google Диск\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csproj.GenerateResource.Cache
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe.config
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.exe
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.pdb
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.pdb
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csprojResolveAssemblyReference.cache
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Properties.Resources.resources
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csproj.GenerateResource.Cache
+D:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.CrcB.resources
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe.config
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.exe
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.pdb
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.pdb
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csprojResolveAssemblyReference.cache
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Properties.Resources.resources
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csproj.GenerateResource.Cache
+H:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Form1.resources
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe.config
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.exe
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\bin\Debug\Telemetry.pdb
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csprojResolveAssemblyReference.cache
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Form1.resources
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Properties.Resources.resources
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.csproj.GenerateResource.Cache
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.exe
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.pdb
+E:\Project\Google_Disk\Project\Cubesat\PC\Telemetry\Telemetry\obj\Debug\Telemetry.Form2.resources
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.Form1.resources
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.Form2.resources
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.Properties.Resources.resources
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.csproj.GenerateResource.Cache
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.exe
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\obj\Debug\Telemetry.pdb
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\bin\Debug\Telemetry.exe.config
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\bin\Debug\Telemetry.exe
+C:\Users\Sergey\Google Диск\Work\Telemetry\Telemetry\bin\Debug\Telemetry.pdb
